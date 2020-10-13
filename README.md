@@ -3,7 +3,8 @@ Iranian Persian (Farsi) Banke Name Base 6 first Digit Card Holder Number
 # Description
 Based this Extension Method in C# (csharp) you could find and return Persian(farsi) name of bank holder base first 6 digit of card number
 # Persian (Farsi)Description
-به کمک این اکستنشن متد در سی شارپ C# ، بر اساس 6 رقم اول شماره کارت بانکی متعلق به بانک های جمهوری اسلامی ایران میتوانید نام بانک صادر کننده کارت را برگردانید.
+به کمک این اکستنشن متد در سی شارپ C#
+ بر اساس 6 رقم اول شماره کارت بانکی متعلق به بانک های جمهوری اسلامی ایران میتوانید نام بانک صادر کننده کارت را برگردانید
 
 # Sample Input Value
 input value must be in string format, you could pass in full number card or just first 6 digit number also card number format include Star Base Iranian Gateway CardHolder Number
